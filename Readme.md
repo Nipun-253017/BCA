@@ -1,18 +1,4 @@
 Tree:
-BCA
-   └── Sem 3
-       ├── English
-       │   ├── Module 1
-       │   │   ├── Appreciation.md
-       │   │   └── World Malayali.md
-       │   ├── Module 2
-       │   │   └── Definition of Kerala As a Region.md
-       │   └── Module 3
-       │       ├── Philosophy in Action.md
-       │       └── Unit2
-       │           └── The Proboem of 'True Knowledge' by Poyakayil Appachan.md
-       └── Legal & Ethical Issues
-           └── Module 1.md
 <pre>
 <a href="./BCA/">BCA</a>
 └── <a href="./BCA/Sem%203/">Sem 3</a>
