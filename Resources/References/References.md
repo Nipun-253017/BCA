@@ -1,3 +1,3 @@
-# [[Semester 3 MOC |Semester 3]]
-- [[Python MOC]]
+# [[Semester_3_MOC|Semester 3]]
+- [[Python_MOC]]
      - [[]]

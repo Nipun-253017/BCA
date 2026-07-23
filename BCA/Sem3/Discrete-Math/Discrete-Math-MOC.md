@@ -1,8 +1,8 @@
 # Discrete Math MOC
 ## Modules
 - **Module 1**
- -  [[Set Theory]]
+ -  [[Set-Theory]]
  - [[Mathematical Logic]]
 - **Module 2**
- - [[Function & Relations]]
+ - [[Function&Relations]]
  - 
