@@ -2,22 +2,12 @@
 My personal notes for Bachelor of Computer Applications (with management)
 
 # BCA Dashboard
-**Current Semester:** [[Semester_3_MOC| Semester 3]]
+**Current Semester:** [Semester-3-MOC](BCA/Sem-3/Semester-3-MOC.md)
 
 ## Semesters
-- [x] [[Semester 1]]
-- [x] [[Semester 2]]
-- [[Semester_3_MOC| Semester 3]] 
+- [x] [Semester 1]
+- [x] [Semester 2]
+- [ ] [Semester 3](BCA/Sem-3/Semester-3-MOC.md) 
 
 ## Quick Resources 
--  [[Past Papers]]
--  [[References]]
-## MOCs
-- [[Semester 1]]
-- [[Semester 2]]
-- [[Semester_3_MOC]]
-   - [[Discrete-Math-MOC]]
-   - [[English_MOC]]
-   - [[Leagal&Ethics_Issues_MOC]]
-   - [[Python_MOC]]
-   - 
+-  [Past Papers]
