@@ -17,4 +17,5 @@ $$ A = \{2,4,6,8,10\}$$
 - The intersection of the set $A$ and $B$ is denoted $A \cap B$, is the set of elements that belong to both $A$ and $B$.
 - This operation is represented as: $$A \cap B = \{X: X \in A \ and\ X \in B\}$$
 - The intersection of contains only those elements that are present is both sets. Here , x represent the elements that are common to both set $A$ or $B$.
-- 
+- Example:
+	- If $A = \{1,2,3\}$ and $B = \{3,4,5\}$, then $A \cap B = \{3\}$.
