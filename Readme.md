@@ -10,4 +10,4 @@ My personal notes for Bachelor of Computer Applications (with management)
 - [ ] [Semester 3](BCA/Sem-3/Semester-3-MOC.md) 
 
 ## Quick Resources 
--  [Past Papers]
+- ### [Past Papers]
