@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Resources  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:BCA/Sem-3/Discrete-Math  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:BCA/Sem-3/English  ",
+      "color": {
+        "a": 1,
+        "rgb": 5420768
+      }
+    },
+    {
+      "query": "path:BCA/Sem-3/Legal&Ethical-Issues  ",
+      "color": {
+        "a": 1,
+        "rgb": 14890354
+      }
+    },
+    {
+      "query": "path:BCA  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "file:Readme.md",
+      "color": {
+        "a": 1,
+        "rgb": 66308
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.650725925925926,
+  "repelStrength": 8.84266666666667,
+  "linkStrength": 0.756918518518519,
+  "linkDistance": 30,
+  "scale": 1.0888758696885716,
+  "close": true
+}

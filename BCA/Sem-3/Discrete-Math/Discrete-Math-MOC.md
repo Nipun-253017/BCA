@@ -5,4 +5,3 @@
 - ### **Module-2**
 	 - #### [Function](Function.md)
 	 - #### [Pre-image-and-image-of-a-function](Pre-image-and-image-of-a-function.md)
-	 - 
