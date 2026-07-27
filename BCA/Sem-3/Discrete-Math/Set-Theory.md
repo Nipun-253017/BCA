@@ -1,6 +1,6 @@
 # Set Theory
 A set is a well defined collection of distinct objects. These objects are called elements or members of the set we denote a set by using curly brackets.
-$$ A = \{2,4,6,8,10\}$$
+$A = \{2,4,6,8,10\}$
 - Membership: If something is in a set, we say it is a member of the set denoted by $\in$ if not, we use $\notin$.
 - **Example:**
 	- In the set $\{1,2,3\}$
@@ -8,14 +8,20 @@ $$ A = \{2,4,6,8,10\}$$
 
 ## Union of Sets
 - The union of sets $A$ and $B$, denoted by $A\cup B$ is the set of distinct elements that belong to set $A$ or set $B$ or both.
-- The operation can be represented as: $$A \cup B = \{X:X \in A \ or\ X \in B\}$$
+- The operation can be represented as: 
+$$
+A \cup B = \{X:X \in A \ or\ X \in B\}
+$$
 - The union includes every element that appears  in the either  of the two set, without any repetition.
 - **Example:**
 	- If $A = \{1,2,3\}$  and $B = \{3,4,5\}$ then $A \cup B = \{1,2,3,4,5\}$
 
 ## Intersection of Sets
 - The intersection of the set $A$ and $B$ is denoted $A \cap B$, is the set of elements that belong to both $A$ and $B$.
-- This operation is represented as: $$A \cap B = \{X: X \in A \ and\ X \in B\}$$
+- This operation is represented as: 
+$$
+A \cap B = \{X: X \in A \ and\ X \in B\}
+$$
 - The intersection of contains only those elements that are present is both sets. Here , x represent the elements that are common to both set $A$ or $B$.
 - Example:
 	- If $A = \{1,2,3\}$ and $B = \{3,4,5\}$, then $A \cap B = \{3\}$.
@@ -25,15 +31,21 @@ $$ A = \{2,4,6,8,10\}$$
 | ------------------------------------------------------ | ------------------------------------------------------------- |
 | ![](../_Assets/{DATEYYYY-MM-DD}}-Set-Theory-Union.png) | ![](../_Assets/{DATEYYYY-MM-DD}}-Set-Theory-Intersection.png) |
 ## Questions
-> [!QUESTION]
+> [!NOTE]
 > Find the union of set A and B given that set $A = \{2,4,6\}$ and Set $B = \{4,10\}$.
 >
-> **Answer:** $$A \cup B = \{2, 4, 6, 10\}$$
+> **Answer:** 
+> $$
+> A \cup B = \{2, 4, 6, 10\}
+> $$
 
 > [!NOTE]
 > Find the intersection of set X and Y given $X =\{5,9,10,15\}$ and $Y = \{4,5,12\}$.
 >
-> **Answer:** $$X \cap Y = \{5\}$$
+> **Answer:**
+> $$
+> X \cap Y = \{5\}
+> $$
 
 > [!NOTE]
 > Let X and Y be the following sets:
@@ -42,17 +54,27 @@ $$ A = \{2,4,6,8,10\}$$
 > Find the $X \cap Y$ and $X \cup Y$
 >
 > **Answer:**
-$$ \begin{align*} X \cap Y &= \{9, 11\} \\ X \cup Y &= \{2, 9, 11, 15\} \end{align*} $$
+> $$
+> \begin{align*} X \cap Y &= \{9, 11\} \\ X \cup Y &= \{2, 9, 11, 15\} \end{align*}
+> $$
 
 ## Complement of Set
 - If U is a universal set and X is any subset of U, then the complement of X consists of all the elements is U that are not in X. 
-$$ X = \{a: a \in U and \ x \in a\}$$
+$$
+X = \{a: a \in U and \ x \in a\}
+$$
 - **Example:**
-  - if the universal set $U = \{1,2,3,4,5,6\}$ and $A = \{1,2,3\}$ then $$A¹ = \{4,5,6\}$$
+  - if the universal set $U = \{1,2,3,4,5,6\}$ and $A = \{1,2,3\}$ then 
+$$
+A¹ = \{4,5,6\}
+$$
 ## Set Difference 
 - The difference between set is a denoted by $A - B$ which is the set containing elements that are in A but not in B, all elements of A expect the element of B.
 - **Example:**
-   - If $A = \{1,2,3\}$ and $B = \{3,4,5\}$ then $$A - B = \{1,2\}$$ $[A - B = A - A \cap B]$
+   - If $A = \{1,2,3\}$ and $B = \{3,4,5\}$ then
+   $$
+    A - B = \{1,2\}
+		    $$             $[A - B = A - A \cap B]$
 - In the below diagram, the set difference $A - B$ contains all the elements that are in $A$ but not in $B$.
 ![](../_Assets/Pasted%20image%2020260727130617.png)
 ## Discount Set
