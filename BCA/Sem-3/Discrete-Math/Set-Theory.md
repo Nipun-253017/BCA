@@ -43,23 +43,25 @@ $$
 | ------------------------------------------------------ | ------------------------------------------------------------- |
 | ![](../_Assets/{DATEYYYY-MM-DD}}-Set-Theory-Union.png) | ![](../_Assets/{DATEYYYY-MM-DD}}-Set-Theory-Intersection.png) |
 ## Questions
-> [!NOTE] Question 1
+> [!NOTE]
+> ### **Question 1**
 > Find the union of set A and B given that set $A = \{2,4,6\}$ and Set $B = \{4,10\}$.
->
-> **Answer:** 
-> 
-> $$
-> A \cup B = \{2, 4, 6, 10\}
-> $$
 
-> [!NOTE] Question 2
+>**Answer:** 
+ 
+$$
+A \cup B = \{2, 4, 6, 10\}
+$$
+
+> [!NOTE] 
+> ### Question 2
 > Find the intersection of set X and Y given $X =\{5,9,10,15\}$ and $Y = \{4,5,12\}$.
->
+
 > **Answer:**
->
-> $$
-> X \cap Y = \{5\}
-> $$
+
+$$
+X \cap Y = \{5\}
+$$
 
 > [!NOTE] Question 3
 > Let X and Y be the following sets:
