@@ -21,7 +21,7 @@ $$ A = \{2,4,6,8,10\}$$
 	- If $A = \{1,2,3\}$ and $B = \{3,4,5\}$, then $A \cap B = \{3\}$.
 
 
-| [[#Union of Sets]]                                     | [Intersection of Sets](#Intersection%20of%20Sets)             |
+| [Union of Sets](#Union%20of%20Sets)                    | [Intersection of Sets](#Intersection%20of%20Sets)             |
 | ------------------------------------------------------ | ------------------------------------------------------------- |
 | ![](../_Assets/{DATEYYYY-MM-DD}}-Set-Theory-Union.png) | ![](../_Assets/{DATEYYYY-MM-DD}}-Set-Theory-Intersection.png) |
 ## Questions
