@@ -43,3 +43,18 @@ $$ A = \{2,4,6,8,10\}$$
 >
 > **Answer:**
 $$ \begin{align*} X \cap Y &= \{9, 11\} \\ X \cup Y &= \{2, 9, 11, 15\} \end{align*} $$
+
+## Complement of Set
+- If U is a universal set and X is any subset of U, then the complement of X consists of all the elements is U that are not in X. 
+$$ X = \{a: a \in U and \ x \in a\}$$
+- **Example:**
+  - if the universal set $U = \{1,2,3,4,5,6\}$ and $A = \{1,2,3\}$ then $$A¹ = \{4,5,6\}$$
+## Set Difference 
+- The difference between set is a denoted by $A - B$ which is the set containing elements that are in A but not in B, all elements of A expect the element of B.
+- **Example:**
+   - If $A = \{1,2,3\}$ and $B = \{3,4,5\}$ then $$A - B = \{1,2\}$$ $[A - B = A - A \cap B]$
+- In the below diagram, the set difference $A - B$ contains all the elements that are in $A$ but not in $B$.
+![](../_Assets/Pasted%20image%2020260727130617.png)
+## Discount Set
+- Two set are said to be disjoint if their intersection is the empty set \[Set with no common\]
+- 
