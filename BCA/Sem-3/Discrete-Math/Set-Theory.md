@@ -25,19 +25,21 @@ $$ A = \{2,4,6,8,10\}$$
 | ------------------------------------------------------ | ------------------------------------------------------------- |
 | ![](../_Assets/{DATEYYYY-MM-DD}}-Set-Theory-Union.png) | ![](../_Assets/{DATEYYYY-MM-DD}}-Set-Theory-Intersection.png) |
 ## Questions
-> [!Note] Find the union of set A and B given that set $A = \{2,4,6\}$ and Set $B = \{4,10\}$.
+> [!NOTE]
+> Find the union of set A and B given that set $A = \{2,4,6\}$ and Set $B = \{4,10\}$.
 >
-> **Answer:** $$ A \cup B = \{2, 4, 6, 10\} $$
+> **Answer:** $$A \cup B = \{2, 4, 6, 10\}$$
 
-> [!Note] Find the intersection of set X and Y given $X =\{5,9,10,15\}$ and $Y = \{4,5,12\}$.
+> [!NOTE]
+> Find the intersection of set X and Y given $X =\{5,9,10,15\}$ and $Y = \{4,5,12\}$.
 >
-> **Answer:**
- $$X \cap Y = \{5\}$$
+> **Answer:** $$X \cap Y = \{5\}$$
 
-> [!Note] Let X and Y be the following sets:
-$X = \{15,9,11\}$
-$Y = \{11,9,2\}$>
-Find the $X \cap Y$ and $X \cup Y$
+> [!NOTE]
+> Let X and Y be the following sets:
+> $X = \{15,9,11\}$
+> $Y = \{11,9,2\}$>
+> Find the $X \cap Y$ and $X \cup Y$
 >
 > **Answer:**
 $$ \begin{align*} X \cap Y &= \{9, 11\} \\ X \cup Y &= \{2, 9, 11, 15\} \end{align*} $$
