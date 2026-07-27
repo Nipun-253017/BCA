@@ -25,7 +25,7 @@ $$ A = \{2,4,6,8,10\}$$
 | ------------------------------------------------------ | ------------------------------------------------------------- |
 | ![](../_Assets/{DATEYYYY-MM-DD}}-Set-Theory-Union.png) | ![](../_Assets/{DATEYYYY-MM-DD}}-Set-Theory-Intersection.png) |
 ## Questions
-> [!NOTE]
+> [!QUESTION]
 > Find the union of set A and B given that set $A = \{2,4,6\}$ and Set $B = \{4,10\}$.
 >
 > **Answer:** $$A \cup B = \{2, 4, 6, 10\}$$
