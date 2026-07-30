@@ -1,3 +1,7 @@
+---
+publish: true
+Data:
+---
 ## **1. Set Operations for Survey Analysis**  
 A college club organized two events: a _Coding Competition_ and a _Web Design Workshop_. Write a function _`analyze_participants(coding_set, design_set)`_ that takes two sets containing student registration IDs for each event and prints:
 1. Students who attended **both** events

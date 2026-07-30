@@ -157,20 +157,20 @@ $$
 ### Associative Proportion 
 1. $A \cup (B \cup C) = (A \cup B) \cup C\newline$
 	  **Example:** $A = \lbrace{1,2\rbrace}$ , $B = \lbrace{3,4\rbrace}$ and $C = \lbrace{5,6\rbrace}\newline$
-		L.H.S: 
-		 $A \cup (B \cup C) = A \cup (\lbrace{3,4,5,6\rbrace})\newline$ 
-			        $= \lbrace{1,2,3,4,5,6\rbrace}\newline$
-		R.H.S:
-		 $(A \cup B) \cup C = \lbrace{1,2,3,4\rbrace} \cup \lbrace{5,6\rbrace}\newline$
-				    $= \lbrace{1,2,3,4,5,6\rbrace}\newline$
+		 L.H.S: 
+			$A \cup (B \cup C) = A \cup (\lbrace{3,4,5,6\rbrace})\newline$ 
+			     $= \lbrace{1,2,3,4,5,6\rbrace}\newline$
+		 R.H.S:
+		     $(A \cup B) \cup C = \lbrace{1,2,3,4\rbrace} \cup \lbrace{5,6\rbrace}\newline$
+				 $= \lbrace{1,2,3,4,5,6\rbrace}\newline$
 	     $\therefore L.H.S = R.H.S\newline$
 	     Hence, $A \cup (B \cup C) = (A \cup B) \cup C\newline$
 2. $A \cap (B \cap C) = (A \cap B) \cap C\newline$
 	  **Example:** $A = \lbrace{2,3\rbrace}, B = \lbrace{2,4\rbrace} and C = \lbrace{2,5\rbrace}\newline$
 		 L.H.S:
-		    $A \cap (B \cap C) = \lbrace{2\rbrace}\newline$
-		    $A \cap B = \lbrace{2\rbrace}\newline$
+		     $A \cap (B \cap C) = \lbrace{2\rbrace}\newline$
+		     $A \cap B = \lbrace{2\rbrace}\newline$
 		 R.H.S:
-            $(A\cap B) \cap C = \lbrace{2\rbrace}\newline$
-		$\therefore A \cap (B \cap C) = (A \cap B) \cap C\newline$
+             $(A\cap B) \cap C = \lbrace{2\rbrace}\newline$
+		 $\therefore A \cap (B \cap C) = (A \cap B) \cap C\newline$
  

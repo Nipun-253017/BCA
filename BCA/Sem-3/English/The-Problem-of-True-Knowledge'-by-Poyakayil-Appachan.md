@@ -1,11 +1,14 @@
-# The Problem of 'True Knowledge' by Poyakayil Appacham
+# The Problem of 'True Knowledge' by Poykayil Appacham
+
+![](../_Assets/IMG-20260728-WA0000.jpg)
+
 Points
 - According to Sanil Mohan the Dalits social movement helped Dalits develop a new ideas of the goos life.
 - This new outlook included:
   - New Ideas about work, Time and Family life.
   - Importance of 'cleanliness' introduced by missionaries.
   - Value of freedom and equality inspired dalits to improve their everyday life.
-- Poyakayil Yohanan through PDRS(Prathyaksha Raksha Daiva Sabha) introduced:
+- Poykayil Yohanan through [[Prathyaksha Raksha Daiva Sabha]](PDRS) introduced:
   - New symbols and ways of prayers.
   - Rituals that reminded people of the suffering of slavery.
   - These rituals help dalitss understand their forgotten history.

@@ -1,6 +1,6 @@
 # [Poem Appreciation](Appreciation.md)
 ---
-# World Malayli
+# World Malayali
 **World Malayali** is a famous poem by K. Ayappa Paniker. The poem explores identity, migration and a shared origin of humanity.
 ## Stanza 1
 The while boy beginning searching for his roots. In the first generation he encounters **genes** and asks "Who he really is". The genes reply that they are "not local people" & disappears. This suggest that human origins  are not limited to one place.
@@ -11,15 +11,15 @@ The boy then encounters **chromosome**. they tell him that they came from anothe
 ## Stanza 4
 Passing the forth generation, he arrives at a crossroad and asks for the truth about his original root. Each path points in a different direction showing that         and a         are complex and have many possible origin.
 ## Stanza 5
-In the fifth generation, he finds 5 patel flower. The flower symbolize  growth diversity and interconnected natures of life his search for roots continues through nature and history.
+In the fifth generation, he finds 5 Patel flower. The flower symbolize  growth diversity and interconnected natures of life his search for roots continues through nature and history.
 ## Stanza 6
 The boy meets older generations and learns that his ancestors  came from different region and culture his family history become more complex.
 
 ## Stanza 7
-As he moves further back he discovers that people have always migrated, mixed & setted in new places. There is no fixed boundary for human identity.
+As he moves further back he discovers that people have always migrated, mixed & settled in new places. There is no fixed boundary for human identity.
 ## Stanza 8
 The search expands beyond nation and races suggest that all human beings are connected to a common biological & historical heritage.
 ## Stanza 9
 The boy realize that labels such as race, nationality & language cannot fully explain eho a person is. Identity is much broaden.
 ## Stanza 10
-The search ends with understanding that every human being is part of one large human family. "The World Malayali" is not just a malayali from Kerala but a gobble citizen whoes root spread across as the world. The poem celebrate unity in diversity and shared origin human being are connected through generation & whole world is our common home.
+The search ends with understanding that every human being is part of one large human family. "The World Malayali" is not just a Malayali from Kerala but a gobble citizen whose root spread across as the world. The poem celebrate unity in diversity and shared origin human being are connected through generation & whole world is our common home.

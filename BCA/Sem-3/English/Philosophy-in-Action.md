@@ -1,15 +1,16 @@
-# Social movements and Knowledge Production Philosophy as a way of life: Narayana Guru
+# Philosophy in Action
+## Social movements and Knowledge Production Philosophy as a way of life: Narayana Guru
 Social movements are collective campaign carried out by group of people not by Individual. This aim to bring social & political change by change by addressing both govt, and public.
 They use different methods such as marches, rallies demonstration, occupation, blockades, public meeting, posters, speakers, speeches, petitions, pamphlets in politics  & demand their right.
 In Kerala many important social moment brought changeling "Villeruandi sanarm" led by ayarksti, "Malayli Memorial", "Ezhaus Memorial", "Vaikom Sathyagraha", the formation of organization like SNDP, PRDS, Yogaksmn Sabha, Muslim dherma parpalana gogam, Temple entry protest.
 Social Movement question the existing system of knowledge. Maryumlised people challenge the accepted common sense and ask  whether it is fair and scientific.
 They also question development model and existing social practices through their struggles for survival and equality they help create new idea and new knowledge that contribute to social progress.
-# Sree Narayana Guru
+### Sree Narayana Guru
 - Philosopher  who transformed Kerala's social cultural & religious life.
 - Played a major role in the early modernity of Kerala.
 - Wrote prose & portry
 - Fluent in Sanskrit, Malayalam & Tamil.
-## 1. Poeting instanced of Philosophy 
+### 1. Poeting instanced of Philosophy 
 - Used the word 'Aribu' in his writings.
 - His Philosophy  was not based on rational arguments or metaphysical theories.
 - Did not support one philophyical school like Advaithu, Budism, Saivism.
@@ -22,7 +23,7 @@ They also question development model and existing social practices through their
 - Known as the founder of Kerala Modernity.
 - Thinking, living, acting & knowing were closely connected.
 - Knowledge was the starting point not the final goal.
-## 2. Translation Instead of Interpretation
+### 2. Translation Instead of Interpretation
 - Did not interpret or differ metaphysical theories.
 - Tried to translate philosophical truth into everyone life.
 - Believed poetry should transform life, not just give information.
