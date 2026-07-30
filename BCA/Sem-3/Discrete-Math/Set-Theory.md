@@ -155,7 +155,7 @@ $$
 		 $\therefore A \cap B = B \cap A\newline$
 
 ### Associative Proportion 
-1. $A \cup (B \cup C) = (A \cup B) \cup C\newline$
+3. $A \cup (B \cup C) = (A \cup B) \cup C\newline$
 	  **Example:** $A = \lbrace{1,2\rbrace}$ , $B = \lbrace{3,4\rbrace}$ and $C = \lbrace{5,6\rbrace}\newline$
 		 L.H.S: 
 			$A \cup (B \cup C) = A \cup (\lbrace{3,4,5,6\rbrace})\newline$ 
@@ -165,7 +165,7 @@ $$
 				 $= \lbrace{1,2,3,4,5,6\rbrace}\newline$
 	     $\therefore L.H.S = R.H.S\newline$
 	     Hence, $A \cup (B \cup C) = (A \cup B) \cup C\newline$
-2. $A \cap (B \cap C) = (A \cap B) \cap C\newline$
+4. $A \cap (B \cap C) = (A \cap B) \cap C\newline$
 	  **Example:** $A = \lbrace{2,3\rbrace}, B = \lbrace{2,4\rbrace} and C = \lbrace{2,5\rbrace}\newline$
 		 L.H.S:
 		     $A \cap (B \cap C) = \lbrace{2\rbrace}\newline$
@@ -173,4 +173,48 @@ $$
 		 R.H.S:
              $(A\cap B) \cap C = \lbrace{2\rbrace}\newline$
 		 $\therefore A \cap (B \cap C) = (A \cap B) \cap C\newline$
+
+### Distributive Properties
+5. $A \cap (B \cup C) = (A \cap B) \cup (A \cap C)$
+	  **Example:** $A = \lbrace{1,2\rbrace}, B = \lbrace{3,4\rbrace}, C = \lbrace{6,7\rbrace}$
+		 L.H.S
+		     $A \cap (B \cup C)$
+		     $B \cup C = \lbrace{3,4,6,7\rbrace} \cap \lbrace{1,2\rbrace}$
+		     $= \emptyset$
+		 R.H.S
+			 $(A \cap B) \cup (A \cap C)$
+			 $A \cap B = \emptyset$
+			 $A \cap C = \emptyset$
+			 $(A \cap B) \cup (A \cap C) = \lbrace{\rbrace} \cup \lbrace{\rbrace}$
+			 $= \emptyset$
+		 $\therefore L.H.S = R.H.S$
+6. $A \cup (B \cap C) = (A \cup B) \cap (A \cup C)$
+	**Example:**  $A = \lbrace{1,2\rbrace}, B = \lbrace{3,4\rbrace}, C = \lbrace{6,7\rbrace}$
+		L.H.S: $A \cup (B \cap C)$
+			$B \cap C = \emptyset$
+			$A \cup (B \cap C) = \lbrace{1,2,3,4\rbrace} \cap \lbrace{1,2,6,7\rbrace}$
+			$= \lbrace({1,2\rbrace})$
+		R.H.S: $(A \cup B) \cap (A \cup C)$
+			$A \cup B = \lbrace{1,2,3,4\rbrace}$
+			$A \cup C = \lbrace{1,2,6,7\rbrace}$
+			$(A \cup B) \cap (A \cup C) = \lbrace{1,2,3,4\rbrace} \cap \lbrace{1,2,6,7\rbrace}$
+						  $= \lbrace{1,2\rbrace}$
+		$\therefore L.H.S = R.H.S$
+		 Hence, $A \cup (B \cap C) = (A \cup B) \cap (A \cup C)$
+
+### Identity laws
+7.  $A \cup A = A$
+	**Example:** $A = \lbrace{1,2,3\rbrace}$
+		 L.H.S:
+			$A \cup A = \lbrace{1,2,3\rbrace}$
+		R.H.S:
+			$A$
+		$\therefore L.H.S = R.H.S$
+8. $A \cap A = A$
+	**Example:** $A = \lbrace{1,2,3\rbrace}$
+		L.H.S:
+			$A \cup A = \lbrace{1,2,3\rbrace}$
+		R.H.S:
+			$A$
+		$\therefore L.H.S = R.H.S$	
  
