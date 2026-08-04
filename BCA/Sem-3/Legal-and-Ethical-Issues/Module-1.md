@@ -23,11 +23,19 @@ law is a set of rules and principles  that govern the humand conduct in a civil 
   - Insurance Act
   - Arbitration Act
   - Patent & Copyright Act
-# Role of Law in Business 
-## Business Regulation
+## Role of Law in Business 
+### Business Regulation
  - business laws helps in managing  business more effectively by avoiding unnecessary legal issues. It facilitates understanding law and terms related to business operations.
-## Creating Agreement and Contract
+### Creating Agreement and Contract
  - In order to create a valid contract knowledge of Contract Act is essential, so that organizations can draft effective valid contracts.
-## Fair compensation Practices
- - Bus
- - 
+### Fair compensation Practices
+ - Business law provides a legal framework for transparent remuneration system. Business law maintain harmony between organization and it's employees by protecting employee rights and also avoid discrimination.
+### Proction of Shareholder as well as Stakeholder right
+- Business law is critical in safe the right of shareholders and stakeholders through legal framework that ensures transparency, accountability and fairness.
+
+## Indian Contract Act
+ - The law relating to contract is included in Indian contract act 1872. It came to force on Sept 1, 1872. It is the primary source of law regulating contract in India.
+ - It consist of 266 section and 11 Chapters.
+
+### Contract
+ - The word "Contract" is derived  from Latin word "Contractor" which means drawing together, Section 2(H) of Indian Contract Act 1872 defines a contract as an agreement enforceable by law.

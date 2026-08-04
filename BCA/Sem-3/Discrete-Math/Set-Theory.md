@@ -217,4 +217,30 @@ $$
 		R.H.S:
 			$A$
 		$\therefore L.H.S = R.H.S$	
- 
+
+### Properties of Complement laws
+9. $(A)=A$
+
+## Excercise
+1. Let $A = \lbrace{1,2,3,4,5,6,7,8,9,10\rbrace}$, $B = \lbrace{2,3,6,8\rbrace}$, and $C = \lbrace{3,5,4,8,2\rbrace}$. Find the following.
+	1. $B \cup C$
+		Ans: $$B = \lbrace{2,3,6,8,5,4\rbrace}$$
+	 2. $B \cap C$
+		 Ans: $$B \cap C = \lbrace{5,4\rbrace}$$
+	3. $B - C$
+		Ans: $$B - C = \lbrace{6\rbrace}$$
+	4. $A - B$
+		Ans: $$A - B = \lbrace{1,4,5,7,9,10}$$
+	5. $A -C$ 
+		Ans: $$A - C = \lbrace{1,6,7,9,10\rbrace}$$
+
+## Subsets of a set
+Set A is a subset of set B if every element of A is also an elements of B. In symbols this is written as: $$A \subset B \ or A \subseteq B$$ 
+The Venn diagram representation is given by:
+![209](../../../Set-Theory-subset.png)
+1. Find all the possible subsets of $A = \lbrace{1,2,3,4\rbrace}$
+	Ans: $$\lbrace{\lbrace{1,2,3,4\rbrace},\lbrace1,2,3\rbrace,\lbrace1,2,4\rbrace,\lbrace2,3,4\rbrace,\lbrace1,3,4\rbrace\,\lbrace1,2\rbrace,\lbrace1,3\rbrace,\lbrace1,4\rbrace,\lbrace2,3\rbrace,\lbrace2,4\rbrace,\lbrace3,4\rbrace,\lbrace1\rbrace,\lbrace2\rbrace,\lbrace3\rbrace,\lbrace4\rbrace\rbrace}$$
+	A Set with n elements have 2ⁿ subsets.
+
+## Cartesian Product
+Given two non-empty set A and B, their Cartesian product A x B, is defined as: $$A \ *\  B = \lbrace(axb$$ 
