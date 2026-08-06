@@ -8,6 +8,7 @@ A college club organized two events: a _Coding Competition_ and a _Web Design
 2.  Students who attended **only** the Coding Competition.
 3. Total unique students across **either** event.
 
+[lab7_1](src/lab7_1.py)
 ```python
 def analyze_participants(coding_set,design_set):
 	print(f"Students who attened both events: {coding_set & design_set}")
@@ -29,7 +30,8 @@ analyze_participants(coding,desing)
 3. **Return a tuple containing the cleaned, sorted list along with the total count of duplicate elements removed.
 	Example Input: [12, 5, 12, 8, 5, 20, 8]
 	Example Output: Cleaned: [5, 8, 12, 20], Duplicates Removed: 3**
-
+	
+[lab7_2](src/lab7_2.py)
 ```python
 def clean_and_sort(items):
         count_ = len(items)
@@ -72,7 +74,7 @@ location: Kerala
 badge: Gold contributor
 
 <div style="page-break-after: always;"></div>
-
+[lab7_3](src/lab7_3.py)
 ```python
 def display_profile(username, email, role="Member", **additional_info):
     print("--- USER PROFILE ---")

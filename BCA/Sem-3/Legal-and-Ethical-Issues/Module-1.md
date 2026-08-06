@@ -39,3 +39,27 @@ law is a set of rules and principles  that govern the humand conduct in a civil 
 
 ### Contract
  - The word "Contract" is derived  from Latin word "Contractor" which means drawing together, Section 2(H) of Indian Contract Act 1872 defines a contract as an agreement enforceable by law.
+
+### **Agreement**
+- According to Section 2E agreement is every promise and every set of promises forming consideration for each other.
+- In short answer agreement is an accepted proposal.
+- Therefore to form an agreement, there should offer or proposal by one part and acceptance by other party.
+- **Example:**
+     - A makes an offer to sell his land for ₹5 lakh to B. B accepts the offer.
+     - This offer after acceptance becomes an agreement between A and B.
+## **Essential Elements of Contract**
+- Section 10 Indian Contract Act provides essential elements of a valid contract according to section 10.
+- Contract are all agreements made by free contract of parties competent to contact for a lawful consideration and with a lawful object, and not expressly declared aside.
+1. **Offer and Acceptance**:
+	- In a valid contract there must be lawful offer and acceptance.
+	- The offer and acceptance must satisfy all legal requirements 
+2. **Intension to Create legal relation:**
+	- The parties to the contract must have an intension that the agreement should create legal obligation.
+	- **Example:**
+		- An agreement to offer gift to a friend is not an agreement intended to create legal relations.
+3. **Lawful Consideration:**
+	- Consideration means something in return.
+	- An agreement without consideration is legally invalid.
+	- it must be real and legal.
+	- **Example:**
+		- If person A sell his car to B for ₹1 lakh and V accepts the offer. 1 Lakh is the constellation for A and B care is the consideration.
