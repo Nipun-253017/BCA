@@ -168,7 +168,7 @@ law is a set of rules and principles  that govern the humand conduct in a civil 
 - An offer is the expression of one person willingness to do or abstain doing something, made with intention of obtaining the agreement of another person.
 - The person making the offer is called **offer** and the person to whom the offer is made is called the **offeree**.
 
-#### Types of Offer
+### Types of Offer
 1. **Express Offer:**
 	- Offer made clearly through ==spoken or written== words are known as Express offer.
 	- **Example:**
@@ -181,4 +181,28 @@ law is a set of rules and principles  that govern the humand conduct in a civil 
 	- It is ==addressed to a particular person or group==, only that person or group may accept the offer.
 	- **Example:**
 		- A offers to sell all of his property only to B.
-4. ****
+4. **General Offer:**
+	- Offer made to the public, anyone who fulfills the obligation may accept the offer .
+	- 10,000 reward offered for finding  a lost time.
+5. **Cross Offer:**
+	- Two person simultaneously make identical offer to each  other without knowing about others offer.
+	- **Example:**
+		- A writes to B offering to sell a car of 5 lakh. At the same time B writes to A offering to buy the same car for 5 lakh without the knowledge of A offer.
+6. **Counter Offer:**
+	- When the person to whom offers is made come with a modification or change in the offer, it becomes a new offer.
+	- **Example:**
+		- A offers to sell a phone for 20K B replies that he will buy it for 18k.
+7. **Standing Offer:**
+	- An offer which made for longer period of time is known as **Standing offer**.
+	- **Example:**
+		- A offers to supply rice to B at 75 per kg over 12 months.
+
+### Essential Condition for a Valid offer
+1. **Capable of creating legal Relationship**
+	- There should be an intension to have legal relation, social gathering or carnival  invitation typically don't create legal relationships. Bementic and social  offer doesn't come under legal relationship.
+2. **Terms must be Definite Certain & Clear**
+	- If the terms of the offer are not clear the offer becomes invalid.
+3. **Offer must be communicated  to the offerese**
+	- An offer is  effective only when it's communicated to the person it's being made to.
+4. **Offer may be Conditional**
+	- A conditional offer can be accepted only subject to that condition. It lapses when condition is not accepted.
