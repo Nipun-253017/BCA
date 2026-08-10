@@ -237,7 +237,7 @@ $$
 ## Subsets of a set
 Set A is a subset of set B if every element of A is also an elements of B. In symbols this is written as: $$A \subset B \ or A \subseteq B$$ 
 The Venn diagram representation is given by:
-![209](../../../Set-Theory-subset.png)
+![209](_Assets/Set-Theory-subset.png)
 1. Find all the possible subsets of $A = \lbrace{1,2,3,4\rbrace}$
 	Ans: $$\lbrace{\lbrace{1,2,3,4\rbrace},\lbrace1,2,3\rbrace,\lbrace1,2,4\rbrace,\lbrace2,3,4\rbrace,\lbrace1,3,4\rbrace\,\lbrace1,2\rbrace,\lbrace1,3\rbrace,\lbrace1,4\rbrace,\lbrace2,3\rbrace,\lbrace2,4\rbrace,\lbrace3,4\rbrace,\lbrace1\rbrace,\lbrace2\rbrace,\lbrace3\rbrace,\lbrace4\rbrace\rbrace}$$
 	A Set with n elements have 2ⁿ subsets.
