@@ -74,7 +74,7 @@ $$
 
 > **Answer:**
  
- $$
+$$
 \begin{aligned}
 X \cap Y &= \lbrace{9, 11\rbrace} \\
 X \cup Y &= \lbrace{2, 9, 11, 15\rbrace}
