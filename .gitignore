@@ -1,3 +1,7 @@
 .trash/
 .git/
+.gitignore
 .obsidian/
+.tmp.driveupload/
+plan.txt
+Excalidraw/
