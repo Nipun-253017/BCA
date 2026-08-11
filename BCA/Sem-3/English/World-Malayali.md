@@ -9,7 +9,7 @@ In the second generation he meets **sperms** and questions them about his identi
 ## Stanza 3
 The boy then encounters **chromosome**. they tell him that they came from another country. The poet emphasis  that the human assertory.
 ## Stanza 4
-Passing the forth generation, he arrives at a crossroad and asks for the truth about his original root. Each path points in a different direction showing that         and a         are complex and have many possible origin.
+Passing the forth generation, he arrives at a crossroad and asks for the truth about his original root. Each path points in a different direction showing that  #missingword  and a #missingword are complex and have many possible origin.
 ## Stanza 5
 In the fifth generation, he finds 5 Patel flower. The flower symbolize  growth diversity and interconnected natures of life his search for roots continues through nature and history.
 ## Stanza 6

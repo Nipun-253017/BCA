@@ -1,6 +1,6 @@
 # Philosophy in Action
 ## Social movements and Knowledge Production Philosophy as a way of life: Narayana Guru
-Social movements are collective campaign carried out by group of people not by Individual. This aim to bring social & political change by change by addressing both govt, and public.
+Social movements are collective campaign carried out by group of people not by Individual. This aim to bring social & political change by addressing both govt, and public.
 They use different methods such as marches, rallies demonstration, occupation, blockades, public meeting, posters, speakers, speeches, petitions, pamphlets in politics  & demand their right.
 In Kerala many important social moment brought changeling "Villeruandi sanarm" led by ayarksti, "Malayli Memorial", "Ezhaus Memorial", "Vaikom Sathyagraha", the formation of organization like SNDP, PRDS, Yogaksmn Sabha, Muslim dherma parpalana gogam, Temple entry protest.
 Social Movement question the existing system of knowledge. Maryumlised people challenge the accepted common sense and ask  whether it is fair and scientific.
