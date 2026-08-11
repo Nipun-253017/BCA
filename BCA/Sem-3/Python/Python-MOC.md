@@ -1,3 +1,6 @@
+---
+tags: [moc, python]
+---
 # Python MOC
 ## Module 1
 
@@ -9,7 +12,7 @@
 | [1.5-Operators](../_Assets/1.5-Operators.pdf)                               |     |
 | [1.6-CommentIO](../_Assets/1.6-CommentIO.pdf)                               |     |
 | [1.7-Python_Strings](../_Assets/1.7-Python_Strings.pdf)                     |     |
-| [1.7-Python_Strings](../_Assets/1.9-DataStructures-List.pdf)                |     |
+| [1.9-DataStructures-List](../_Assets/1.9-DataStructures-List.pdf)           |     |
 | [1.10-List_comprehension](../_Assets/1.10-List_comprehension.pdf)           |     |
 | [1.11-Python_Tuples](../_Assets/1.11-Python_Tuples.pdf)                     |     |
 | [1.12-Python_Sets](../_Assets/1.12-Python_Sets.pdf)                         |     |
@@ -23,3 +26,7 @@
 | Notes                                                             | Lab                 |
 | ----------------------------------------------------------------- | ------------------- |
 | [2.1-Functions_in_python](../_Assets/2.1-Functions_in_python.pdf) | [lab7](Lab/lab7.md) |
+| [2.2.1class](../_Assets/2.2.1class.pdf)                           |                     |
+
+## Up
+- [Semester-3-MOC](../Semester-3-MOC.md)

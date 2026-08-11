@@ -1,3 +1,6 @@
+---
+tags: [discrete-math]
+---
 # Function
 - A function **$f$** from **$A$** to **$B$** which is denoted as **$f(a) = b$**,
 - $F:A-B$ is a relation from **A** to **B** such that for all $a \in \mathrm{Dom} (f)$. 
@@ -23,3 +26,8 @@ Consider  the relation $R = \{(1,x),(2,x)\}$ and $S = \{(1,x),(1,y),(2,z),(3,)\}
 
 ![eg2](_Assets/eg2.png)
 S is not a function, since $S(1) = \{x,y\}$
+
+## Related
+- [Set-Theory](Set-Theory.md)
+- [Pre-image-and-image-of-a-function](Pre-image-and-image-of-a-function.md)
+- [Discrete-Math-MOC](Discrete-Math-MOC.md)

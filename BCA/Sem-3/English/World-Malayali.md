@@ -1,3 +1,6 @@
+---
+tags: [english, poem]
+---
 # [Poem Appreciation](Appreciation.md)
 ---
 # World Malayali
@@ -23,3 +26,8 @@ The search expands beyond nation and races suggest that all human beings are con
 The boy realize that labels such as race, nationality & language cannot fully explain eho a person is. Identity is much broaden.
 ## Stanza 10
 The search ends with understanding that every human being is part of one large human family. "The World Malayali" is not just a Malayali from Kerala but a gobble citizen whose root spread across as the world. The poem celebrate unity in diversity and shared origin human being are connected through generation & whole world is our common home.
+
+## Related
+- [Appreciation](Appreciation.md)
+- [Definition-of-Kerala-As-a-Region](Definition-of-Kerala-As-a-Region.md)
+- [English-MOC](English-MOC.md)

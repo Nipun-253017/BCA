@@ -1,6 +1,7 @@
 ---
 publish: true
 Data:
+tags: [python, lab]
 ---
 ## **1. Set Operations for Survey Analysis**  
 A college club organized two events: a _Coding Competition_ and a _Web Design Workshop_. Write a function _`analyze_participants(coding_set, design_set)`_ that takes two sets containing student registration IDs for each event and prints:
@@ -74,6 +75,7 @@ location: Kerala
 badge: Gold contributor
 
 <div style="page-break-after: always;"></div>
+
 [lab7_3](src/lab7_3.py)
 ```python
 def display_profile(username, email, role="Member", **additional_info):

@@ -1,3 +1,6 @@
+---
+tags: [english, poem]
+---
 Stanza 1 ("No, not a single letter is seen...")
 The poet points out a harsh reality: while there are countless history books written about many different groups of people around the world, there is absolutely no written record of his own community. They have been completely ignored by historians.
 Stanza 2 ("Scrutinize each one of them...")
@@ -14,3 +17,7 @@ Stanza 7 ("How is it possible...")
 He expresses frustration and disbelief at the sheer scale and length of this injustice. He wonders how it is even logically possible that society has universally agreed to blame and punish his people forever, right up to the "end of earth and sky."
 Stanza 8 ("How can God...")
 The poem concludes with a powerful, desperate question directed at the creator. The poet challenges God, asking how a supreme being who created the entire universe could just sit back and allow such cruel injustice and discrimination to continue happening on earth.
+
+## Related
+- [The-Problem-of-True-Knowledge'-by-Poyakayil-Appachan](The-Problem-of-True-Knowledge'-by-Poyakayil-Appachan.md)
+- [English-MOC](English-MOC.md)

@@ -1,4 +1,9 @@
-# The Problem of 'True Knowledge' by Poykayil Appacham
+---
+tags: [english, poem]
+---
+# The Problem of 'True Knowledge' by Poykayil Appachan
+
+[Poem by Poykayli Appachan](Poem.md)
 
 ![](../_Assets/IMG-20260728-WA0000.jpg)
 
@@ -8,7 +13,7 @@ Points
     - New Ideas about work, Time and Family life.
     - Importance of 'cleanliness' introduced by missionaries.
     - Value of freedom and equality inspired dalits to improve their everyday life.
-- Poykayil Yohanan through [[Prathyaksha Raksha Daiva Sabha]](PDRS) introduced:
+- Poykayil Yohanan through [PDRS (Prathyaksha Raksha Daiva Sabha)](Philosophy-in-Action.md) introduced:
     - New symbols and ways of prayers.
     - Rituals that reminded people of the suffering of slavery.
     - These rituals help Dalits understand their forgotten history.
@@ -17,3 +22,8 @@ Points
 - This process created new identity and increased hierarchy.
 - Knowledge production also challenged existing power hierarchy.
 - An example is **Kakshanimnayam** (Determination of Salvation), where young people re enacted stories of Dalits slavery,learned about the suppression faced by their ancestors became active participants in shaping history.
+
+## Related
+- [Poem](Poem.md)
+- [Philosophy-in-Action](Philosophy-in-Action.md)
+- [English-MOC](English-MOC.md)

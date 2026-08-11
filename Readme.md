@@ -1,3 +1,6 @@
+---
+tags: [home, dashboard]
+---
 # BCA Notes
 My personal notes for Bachelor of Computer Applications (with management)
 
@@ -5,9 +8,11 @@ My personal notes for Bachelor of Computer Applications (with management)
 **Current Semester:** [Semester-3](BCA/Sem-3/Semester-3-MOC.md)
 
 ## Semesters
-- [x] [Semester 1]
-- [x] [Semester 2]
+- [x] Semester 1
+- [x] Semester 2
 - [ ] [Semester 3](BCA/Sem-3/Semester-3-MOC.md) 
 
 ## Quick Resources 
-- ### [Past Papers]
+- ### [Cover-page-template](BCA/Templates/Cover-page-template.docx)
+- ### [Vault maintenance checklist](to-do.md)
+- ### Past Papers

@@ -1,3 +1,6 @@
+---
+tags: [discrete-math]
+---
 # Set Theory
 A set is a well defined collection of distinct objects. These objects are called elements or members of the set we denote a set by using curly brackets.
 
@@ -244,3 +247,8 @@ The Venn diagram representation is given by:
 
 ## Cartesian Product
 Given two non-empty set A and B, their Cartesian product A x B, is defined as: $$A \ *\  B = \lbrace(axb$$ 
+
+## Related
+- [Function](Function.md)
+- [Pre-image-and-image-of-a-function](Pre-image-and-image-of-a-function.md)
+- [Discrete-Math-MOC](Discrete-Math-MOC.md) 

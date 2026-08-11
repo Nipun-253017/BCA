@@ -1,3 +1,6 @@
+---
+tags: [event-management]
+---
 # introduction to Event management
 ## Meaning & Definition
 - **Event**
@@ -19,3 +22,6 @@
 	- The venue is the site at a desired location with required audience  capacity and availability for a particular period.
 5. **Event Organizer**
 	- Event organizers are responsible  for 
+
+## Related
+- [Event-Management-MOC](Event-Management-MOC.md)

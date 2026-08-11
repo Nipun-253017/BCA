@@ -1,3 +1,6 @@
+---
+tags: [english]
+---
 # Philosophy in Action
 ## Social movements and Knowledge Production Philosophy as a way of life: Narayana Guru
 Social movements are collective campaign carried out by group of people not by Individual. This aim to bring social & political change by addressing both govt, and public.
@@ -35,3 +38,7 @@ They also question development model and existing social practices through their
 	- Purpose:
 		- Self realization, Not teaching one philosophical system
 	- "The which is dear  to another shall be dear to me, that which is dear to me shall be dear to others too, Any action brings good to one person should also bring good to others."
+
+## Related
+- [Ayyankali-Militancy](Ayyankali-Militancy.md)
+- [English-MOC](English-MOC.md)

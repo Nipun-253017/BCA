@@ -1,3 +1,6 @@
+---
+tags: [legal-and-ethical-issues]
+---
 # Definition of Law
 law is a set of rules and principles  that govern the humand conduct in a civil society are closely related as the law changes with the changes in the society.
 
@@ -168,7 +171,7 @@ law is a set of rules and principles  that govern the humand conduct in a civil 
 - An offer is the expression of one person willingness to do or abstain doing something, made with intention of obtaining the agreement of another person.
 - The person making the offer is called **offer** and the person to whom the offer is made is called the **offeree**.
 
-### Types of Offer
+#### Types of Offer
 1. **Express Offer:**
 	- Offer made clearly through ==spoken or written== words are known as Express offer.
 	- **Example:**
@@ -197,7 +200,7 @@ law is a set of rules and principles  that govern the humand conduct in a civil 
 	- **Example:**
 		- A offers to supply rice to B at 75 per kg over 12 months.
 
-### Essential Condition for a Valid offer
+#### Essential Condition for a Valid offer
 1. **Capable of creating legal Relationship**
 	- There should be an intension to have legal relation, social gathering or carnival  invitation typically don't create legal relationships. Bementic and social  offer doesn't come under legal relationship.
 2. **Terms must be Definite Certain & Clear**
@@ -206,3 +209,46 @@ law is a set of rules and principles  that govern the humand conduct in a civil 
 	- An offer is  effective only when it's communicated to the person it's being made to.
 4. **Offer may be Conditional**
 	- A conditional offer can be accepted only subject to that condition. It lapses when condition is not accepted.
+
+#### Lapse / Revocation of Offer
+1. **By Notice of Revocation:**
+     - As long as the offer has'nt been accepted, the offerer is free to revoke his offer anytime.
+2. **After Stipulated/ Reasonable Time**
+	- An offer lapes if acceptance is not communicated within the prescribed or within a reasonable time.
+3. **An offer lapes by Rejection:**
+	- When an offer is rejected by the offere it expires and can't be accepted later.
+	- The rejection maybe expressed or implied.
+4. **By Failure to Accept Condition:**
+     - If the condition attached with the offer is not accepted, then the offer becomes lapsed.
+
+#### Consideration 
+
+| **Aspects**                                        | **Validity** |
+| -------------------------------------------------- | ------------ |
+| Third person can provide consideration             | True         |
+| Past consideration                                 | True         |
+| Present consideration                              | True         |
+| Agreement without consideration                    | False        |
+| B voluntarily cleans A's car and asked for payment | False        |
+### Acception
+- Acception means giving a consent to a offer made by another party.
+- The **identity of the accepted** depends upon wether the offer is specific or general in nature.
+- **In specific offer:**
+     - Acception can be done only by that identify person.
+     - **Example:** A offer to sell his car to B for ₹5 lakh. 
+     - Only B can accept the offer, no one else can do that Acception.
+- **In general offer:**
+     - Any member of the public who fullfil the contract may accept it.
+     - **Example:** A announces reward for finding his lost document.
+     - anyone who finds and returns the document can claim the reward.
+- **Acception can be created 3 forms:**  
+     - **Express Acception:** 
+        - that is Acception communicated through spoken or written words.
+	- **Implied Acception:**
+	    - demonstrated through action without words.
+	- **Conditional Acception:**
+	     - subject to new condition, it is not valid acceptance. Such acceptance are treated as counter offer.
+	     - **Example:** A offers goods for ₹10,000 to B. But B says that He will accept it only if he can pay in installments. Where it is a counter offer, not acceptance.
+
+## Related
+- [Legal-and-Ethical-Issues-MOC](Legal-and-Ethical-Issues-MOC.md)

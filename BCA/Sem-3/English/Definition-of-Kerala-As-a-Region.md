@@ -1,3 +1,6 @@
+---
+tags: [english]
+---
 - A region is generally defined as an area that can be understood geographically, historically, linguistically and polilically. 
 - Different regions may have different cultural practices such as religion, ritual, customs, and traditions. Even when dialect differ from one place to another, there is usually a common language that connects the people of a region.
 - In Kerala, Malayalam is the dominant language. It connects people who speak different dialects including those living in forest areas. 
@@ -9,3 +12,7 @@
 Many people wrongly think that the name 'Kerala' comes from a Sanskrit word 'Nalikera', although coconut became a major crop in kerala. It has been widely cultimated only during the last 700 years.
 The name Kerala existed much earlier
  and is found in the Ashokan elites of the third century B.C.
+
+## Related
+- [World-Malayali](World-Malayali.md)
+- [English-MOC](English-MOC.md)
