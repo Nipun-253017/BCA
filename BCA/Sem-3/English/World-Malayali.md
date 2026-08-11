@@ -3,7 +3,7 @@
 # World Malayali
 **World Malayali** is a famous poem by K. Ayappa Paniker. The poem explores identity, migration and a shared origin of humanity.
 ## Stanza 1
-The while boy beginning searching for his roots. In the first generation he encounters **genes** and asks "Who he really is". The genes reply that they are "not local people" & disappears. This suggest that human origins  are not limited to one place.
+The white boy beginning searching for his roots. In the first generation he encounters **genes** and asks "Who he really is". The genes reply that they are "not local people" & disappears. This suggest that human origins  are not limited to one place.
 ## Stanza 2
 In the second generation he meets **sperms** and questions them about his identity. They say *"they come from a neighboring  land"*, this  indicates movement  migration across regions.
 ## Stanza 3
