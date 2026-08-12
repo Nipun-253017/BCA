@@ -10,5 +10,8 @@ tags: [moc, sem-3]
 - ### [Event-Management-MOC](Event-Management/Event-Management-MOC.md)
 - ### [Cyber-Law-and-Ethics-MOC](Cyber-Law-and-Ethics/Cyber-Law-and-Ethics-MOC.md)
 
+## Exam Papers
+### First Series
+- [Discrete-Math](Discrete-Math/papers/Question-Paper.md)
 ## Up
 - [Readme (BCA dashboard)](../../Readme.md)
