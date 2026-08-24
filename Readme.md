@@ -14,5 +14,5 @@ My personal notes for Bachelor of Computer Applications (with management)
 
 ## Quick Resources 
 - ### [Cover-page-template](BCA/Templates/Cover-page-template.docx)
-- ### [Vault maintenance checklist](to-do.md)
-- ### Past Papers
+- ### [Past Papers]
+- 
