@@ -105,7 +105,7 @@ law is a set of rules and principles  that govern the humand conduct in a civil 
 9. **Agreement Not Expressly declared #missingword**
 	- the contract act blacklist certain type of agreement and declares these completely invalid under Section 24 to 30
 		- Agreement in restraints of marriages (Section 26)
-		- Agreements in restraints of trade (Section 27)
+		- Agreements in restraints of trade (Section 27) 
 		- Agreement in restraints of legal producing (Section 28)
 		- Wagering Agreement (Betting /Gambling) (Section 30)
 
